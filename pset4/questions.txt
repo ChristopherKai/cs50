@@ -1,0 +1,25 @@
+0.  BMP : The 24-bit pixel (24bpp) format supports 16,777,216 distinct colors 
+    GIF : 256 distinct colors
+    PNG : 256 distinct colors
+    JPEG :  16,777,216 distinct colors 
+1.  GIF does
+2.  lossy-compression lose some information about the picture and can't be reproduced
+3.  JPEG
+4.  deleting a ﬁle most often
+    merely rewrites the metadata that pointed to the ﬁle, but
+    leaves the disk blocks containing the ﬁle’s contents intact
+5.  ﬁlling an entire disk with ASCII NUL
+6.  define integer types 
+7.  make program easy to read and clear
+8.  BYTE : 1 DWORD : 32 LONG:32 WORD :16
+9.  hexadecimal:424d
+10. biSize is the size of BITMAPINFOHEADER ,bfSize is the size of the 
+11. The height of the bitmap, in pixels. If biHeight is negative, 
+    the bitmap is a top-down DIB and its origin is the upper-left corner.
+12. biBiCount
+13. can't find memory for file or the place can't be reached
+14. the size we wanted is exactlt 1*(the second argument)
+15. 3
+16. move the cursor in the file back and forth 
+17. the current place of the cursor
+18. fozzie bear

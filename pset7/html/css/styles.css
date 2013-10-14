@@ -1,0 +1,68 @@
+/****************************************************************************
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global CSS.
+ ***************************************************************************/
+
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#search
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#window
+{
+    width:379px;
+    height:234px;
+    border:1px solid white;
+    float:left;
+    font-size:16px;
+    overflow:hidden;
+}
+
+.tag
+{
+    background-color:blue;
+    color:white;
+    margin:10px 3px 0px 3px;
+    width:80px;
+    height:30px;
+    text-align:center;
+}
+#top
+{
+    /* center contents */
+    text-align: center;
+}
+
+#middle
+{
+    /* center contents */
+    text-align: center;
+}
+
+#middle .nav
+{ 
+    display: inline-block; 
+}
+ 
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 20px;
+
+    /* center contents */
+    text-align: center;
+}

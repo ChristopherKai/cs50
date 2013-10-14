@@ -1,0 +1,14 @@
+0.  a factitious word alleged to mean 'a lung disease caused by the inhalation of very fine silica dust found in volcanoes' but occurring chiefly as an instance of a very long word
+1.  getrusage()  returns  resource  usage measures for this process
+2.  16
+3.  because we only use part of them.Copying the whole struture is wasteful
+4.  check a single character until eof.If it's a digit,skip.If it's a character or a '\'' ,store them in word array.
+    When encounter something not above such as '\n' or space bar etc,add an '\0' for the word array.And repeat above.
+5.  we may get commas and periods etc into word array
+6.  make sure they will not be change?.....have no idea
+7.  I use tries.Every node has a is_word field and 27 node* pointers.
+    And use a stack for keeping tracking of tries' pointers
+8.  0.18 seconds
+9.  haven't thought up one
+10.  it takes nearly 41MB...and I use one more global variable
+
